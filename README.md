@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course `Data Centric AI: Best P
 
 _See the readme file in the main branch for updated instructions and information._
 ## Code Instructions
-The code example for Chapters 6, 7, and 8 uses a Github Codespace to launch a Jopyter Notebook containing the code and a Maternal Health Risk dataset. To launch the notedbook, simply click on `Code` and then `Codespace`. 
+The code example in Chapters 6, 7, and 8 uses a Github Codespace to launch a Jopyter Notebook containing the code and a Maternal Health Risk dataset. To launch the notedbook, simply click on `Code` and then `Codespace`. 
 
 The Maternal Health Risk dataset is from:
 
