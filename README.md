@@ -14,3 +14,7 @@ The Maternal Health Risk dataset is from:
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
 
+## Resources and Additional Links
+
+[Microsoft Founders Hub](https://www.microsoft.com/en-us/startups)
+
